@@ -1,2 +1,0 @@
-# GaussJordan
-Metodos Numericos
